@@ -25,7 +25,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between">
             {/* Logo */}
             <div className="text-2xl font-bold tracking-wider">
-              <span className="highlight cursor-target">RISHI</span>
+              <span className="highlight cursor-target">VENKY</span>
             </div>
 
             {/* Desktop Navigation */}

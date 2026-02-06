@@ -145,8 +145,8 @@ const Contact = () => {
               <Mail className="text-white w-10 h-10" />
               <h3 className="text-xl font-semibold">Email Me</h3>
               <p className="text-gray-400">I&apos;ll get back to you as soon as possible.</p>
-              <a href="mailto:rishinamansingh@gmail.com" className="cursor-target text-white flex items-center gap-2 hover:text-highlight transition-colors">
-                rishinamansingh@gmail.com <ArrowRight className="w-4 h-4" />
+              <a href="mailto:venkatesh@gmail.com" className="cursor-target text-white flex items-center gap-2 hover:text-highlight transition-colors">
+                venkatesh@gmail.com <ArrowRight className="w-4 h-4" />
               </a>
             </motion.div>
 

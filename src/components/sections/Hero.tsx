@@ -59,7 +59,7 @@ const Hero = () => {
                 transition={{ duration: 0.8, delay: 0.3 }}
               >
                 Hi, I&apos;m{' '}
-                <span className="highlight inline-block cursor-target">Rishi</span>
+                <span className="highlight inline-block cursor-target">Venkatesh</span>
               </motion.h1>
 
               <motion.div

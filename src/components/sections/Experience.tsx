@@ -183,7 +183,7 @@ const Experience = () => {
               className="cursor-target btn-primary group flex items-center justify-center mx-auto"
             >
               <a
-                href="/assets/rishi-resume.pdf"
+                href="/assets/venkatesh-resume.pdf"
                 download
                 className="flex items-center"
                 target="_blank"
