@@ -9,24 +9,24 @@ import { Analytics } from "@vercel/analytics/next"
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Rishi - Full Stack Developer & AI Specialist',
-  description: 'Portfolio of Rishi - A passionate full stack developer specializing in AI-powered solutions, SaaS applications, and modern web technologies.',
-  keywords: 'Rishi, Full Stack Developer, AI Specialist, Web Developer, SaaS, React, Next.js, Portfolio',
-  authors: [{ name: 'Rishi' }],
-  creator: 'Rishi',
+  title: 'Venkatesh - Full Stack Developer & AI Specialist',
+  description: 'Portfolio of Venkatesh - A passionate full stack developer specializing in AI-powered solutions, SaaS applications, and modern web technologies.',
+  keywords: 'Venkatesh, Full Stack Developer, AI Specialist, Web Developer, SaaS, React, Next.js, Portfolio',
+  authors: [{ name: 'Venkatesh' }],
+  creator: 'Venkatesh',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://rishi-portfolio.vercel.app',
-    title: 'Rishi - Full Stack Developer & AI Specialist',
-    description: 'Portfolio of Rishi - A passionate full stack developer specializing in AI-powered solutions.',
-    siteName: 'Rishi Portfolio',
+    url: 'https://venkatesh-portfolio.vercel.app',
+    title: 'Venkatesh - Full Stack Developer & AI Specialist',
+    description: 'Portfolio of Venkatesh - A passionate full stack developer specializing in AI-powered solutions.',
+    siteName: 'Venkatesh Portfolio',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Rishi - Full Stack Developer & AI Specialist',
-    description: 'Portfolio of Rishi - A passionate full stack developer specializing in AI-powered solutions.',
-    creator: '@rishi',
+    title: 'Venkatesh - Full Stack Developer & AI Specialist',
+    description: 'Portfolio of Venkatesh - A passionate full stack developer specializing in AI-powered solutions.',
+    creator: '@venkatesh',
   },
   robots: {
     index: true,

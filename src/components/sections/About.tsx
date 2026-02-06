@@ -110,7 +110,7 @@ const About = () => {
                 className="inline-block"
               >
                 <a
-                  href="/assets/rishi-resume.pdf"
+                  href="/assets/venkatesh-resume.pdf"
                   download
                   className="cursor-target btn-primary inline-block"
                   target="_blank"
