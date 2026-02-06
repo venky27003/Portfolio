@@ -1,0 +1,35 @@
+.threads-container {
+  position: relative;
+  width: 130vw;
+  margin-bottom: -40vh;
+  margin-top: -40vh;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  left: 50%;
+  right: 50%;
+  transform: translateX(-50%);
+}
+
+.threads-container canvas {
+  width: 100% !important;
+  height: 100% !important;
+  display: block;
+}
+
+/* Hide Threads component on mobile devices */
+@media (max-width: 768px) {
+  .threads-container {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    width: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+  }
+  
+  .threads-container canvas {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
